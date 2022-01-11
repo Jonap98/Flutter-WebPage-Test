@@ -54882,7 +54882,7 @@ $S:0}
 L.mM.prototype={
 O(a,b){return M.VQ(null,T.Nw(C.Ad,C.bJ,C.dV))}}
 Z.B6.prototype={
-O(a,b){var s=null,r=L.oz("Cargando terapias",s)
+O(a,b){var s=null,r=L.oz("Cargando contenido",s)
 return M.VQ(new E.q4(r,new E.ID(s,s,1/0,56),s),T.yw(new U.qp(s,s,new P.J(4284400072),s,s,s,s),s,s))}}
 N.nA.prototype={
 O(a,b){var s=null
@@ -54903,7 +54903,7 @@ var $async$nh=P.a3(function(a,b){if(a===1)return P.a5(b,r)
 while(true)switch(s){case 0:p.b=!0
 p.aI()
 s=3
-return P.aa(G.apW(P.v5("http://127.0.0.1:8000/api/datos")),$async$nh)
+return P.aa(G.apW(P.v5("http://192.168.0.5:8000/api/datos")),$async$nh)
 case 3:o=b
 n=C.aO.cK(0,B.apK(U.ao7(o.e).c.a.j(0,"charset")).cK(0,o.x))
 m=J.ar(n)
