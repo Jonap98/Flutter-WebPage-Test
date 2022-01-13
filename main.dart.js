@@ -54903,7 +54903,7 @@ var $async$nh=P.a3(function(a,b){if(a===1)return P.a5(b,r)
 while(true)switch(s){case 0:p.b=!0
 p.aI()
 s=3
-return P.aa(G.apW(P.v5("http://192.168.0.5:8000/api/datos")),$async$nh)
+return P.aa(G.apW(P.v5("https://f70c-201-172-233-80.ngrok.io/api/datos")),$async$nh)
 case 3:o=b
 n=C.aO.cK(0,B.apK(U.ao7(o.e).c.a.j(0,"charset")).cK(0,o.x))
 m=J.ar(n)
